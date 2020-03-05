@@ -59,6 +59,9 @@ class TicTacToe
      return player
   end 
   
+  def turn 
+  
+  end
   
   
 end
